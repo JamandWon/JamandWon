@@ -11,3 +11,4 @@
 - ⚡ Fun fact: ... I like maeking
 -->
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlsuper&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhlsuper)](https://github.com/anuraghazra/github-readme-stats)
