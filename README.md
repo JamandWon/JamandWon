@@ -10,9 +10,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I like maeking
 -->
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlsuper&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamandWon&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhlsuper)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JamandWon)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Jamwon)](https://velog.io/@jhlsuper) 
 
