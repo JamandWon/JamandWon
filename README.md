@@ -16,3 +16,4 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Jamwon)](https://velog.io/@jhlsuper) 
 
+[🌱포트폴리오](https://thinkable-frill-ef6.notion.site/5ca2a8091e1d478f91d9d1d59f047546)
